@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alpha4408
-- 👀 I’m interested in SWE and product management roles
-- 🌱 I’m currently learning virtialisation technology 
+- 👀 I’m a software engineer @ Goldman Sachs 
+- 🌱 I’m currently learning spring data jpa, and spring security
 - 📫 How to reach me email at angwenya16@gmail.com
 
 <!---
